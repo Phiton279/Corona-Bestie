@@ -1,0 +1,12 @@
+Skenario
+1. Menjelaskan ini web app apa?
+2. Meminta pengguna mencoba beberapa fitur
+	2.1 Coba untuk melakukan navigasi ke halaman selanjtunya
+	2.2 Coba untuk  kembali kehalaman awal
+	2.3 Coba untuk melihat list fitur fitur dalam guide sesuai denngan app
+	2.4 Coba untuk masuk ke fitur 3
+	2.5 coba untuk berpindah aplikasi dari microsoft team ke zoiom
+	2.6 Coba untuk kembali ke fitur 1 microsfot team
+3. Menanyakan bagai mana desain aplikasi (nilai 1-5)
+4. Menanyakan bagaimana kemudahan pemakaian(1-5)
+5. Kritik dan saran
